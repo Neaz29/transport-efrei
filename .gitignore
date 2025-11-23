@@ -1,0 +1,15 @@
+# Node/Vite
+node_modules
+dist
+
+# Env
+.env
+server/.env
+client/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite legacy
+server/data.sqlite
